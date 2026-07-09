@@ -189,7 +189,15 @@
 			<p>Edge Root: A94B3387E3734E268F97E0407DD9CC18.cdn.signet.ninja<br>
 			Service Event Code: cdn-html-index-<span id="datetime"></span></p>
 			<nav class="nav">
-				<a href="javascript:(function(){var emailTo='support@signet.ninja';var span=document.getElementById('datetime');if(!span||!span.parentElement){return false;}var subjectText=span.parentElement.textContent.trim();var enc=function(s){return encodeURIComponent(s).replace(/[!'()*]/g,function(c){return'%'+c.charCodeAt(0).toString(16).toUpperCase();});};var mailto='mailto:'+emailTo+'?subject='+enc(subjectText);window.location.href=mailto;return false;})();" class="link">Report</a>
+				<a href="javascript:(function(){
+var emailTo='support@signet.ninja';
+var span=document.getElementById('datetime');
+if(!span){return false;}
+var subjectText='cdn-html-index-' + span.textContent.trim();
+var mailto='mailto:'+emailTo+'?subject='+encodeURIComponent(subjectText);
+window.location.href=mailto;
+return false;
+})();" class="link">Report</a>
 			</nav>
 		</main>
 	</body>
