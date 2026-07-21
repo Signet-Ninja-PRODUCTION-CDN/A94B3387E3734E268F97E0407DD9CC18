@@ -2,7 +2,7 @@
 
 
 # Signet Ninja Technologies Ltd. Co. 
-# Signet Ninja Platform CDN Endpoint Information
+Signet Ninja Platform CDN Endpoint Information
 
 
 Platform Principles
