@@ -1,8 +1,8 @@
 # A94B3387E3734E268F97E0407DD9CC18.cdn.signet.ninja
 
-#===============================================================================
-Signet Ninja Technologies Ltd. Co. Signet Ninja Platform CDN Endpoint Information
-#===============================================================================
+# ===============================================================================
+# Signet Ninja Technologies Ltd. Co. Signet Ninja Platform CDN Endpoint Information
+# ===============================================================================
 
 Platform Principles
 -------------------
